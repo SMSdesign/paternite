@@ -5,6 +5,7 @@
 
 title: Hugo Academic Blog Theme # Website name
 baseURL: 'https://example.com/' # Website URL
+uglyurls: true
 
 ############################
 ## PAGE OPTIONS
